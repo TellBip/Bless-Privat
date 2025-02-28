@@ -15,7 +15,7 @@ Node Automation Manager for Bless Network. The program supports automatic author
 - Windows 10/11
 - Ubuntu 22.04 LTS / 24.04 LTS
 - Python 3.10-3.12
-- 
+
 ### Key Features
 - 🔐 Automatic account authorization via Playwright
 - 📝 Node registration with multithreading support
