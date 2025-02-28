@@ -9,21 +9,24 @@
 
 Node Automation Manager for Bless Network. The program supports automatic authorization, registration, and node farming with monitoring capabilities via a Telegram bot.
 
-Brief Overview
-Supported Systems
-Windows 10/11
-Ubuntu 22.04 LTS / 24.04 LTS
-Python 3.10-3.12
-Key Features
-🔐 Automatic account authorization via Playwright
-📝 Node registration with multithreading support
-🌱 Farming on registered nodes
-📊 Statistics collection and monitoring
-🤖 Integration with a Telegram bot for remote monitoring
-🔄 Proxy support (http/https/socks5)
-📱 User-friendly console interface
-Contacts: TellBip - Telegram
-Chat: Telegram
+## Brief Overview
+
+## Supported Systems
+- Windows 10/11
+- Ubuntu 22.04 LTS / 24.04 LTS
+- Python 3.10-3.12
+- 
+### Key Features
+- 🔐 Automatic account authorization via Playwright
+- 📝 Node registration with multithreading support
+- 🌱 Farming on registered nodes
+- 📊 Statistics collection and monitoring
+- 🤖 Integration with a Telegram bot for remote monitoring
+- 🔄 Proxy support (http/https/socks5)
+- 📱 User-friendly console interface
+- Contacts: TellBip - [Telegram](https://t.me/Tell_Bip)
+- Chat: [Telegram](https://t.me/+1fc0or8gCHsyNGFi)
+- Price 100$
 
 <a name="russian"></a>
 # Bless Network Node Manager [RU]
@@ -48,3 +51,4 @@ Chat: Telegram
 
 - Контакты TellBip - [Telegram](https://t.me/Tell_Bip)
 - Чат [Telegram](https://t.me/+1fc0or8gCHsyNGFi)
+- Цена 100$
