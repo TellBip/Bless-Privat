@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/c65ef755-4d97-4d48-b2c5-a8ab50e7c857)
 # Bless Network Node Manager
 
 [English](#english) | [Русский](#russian)
